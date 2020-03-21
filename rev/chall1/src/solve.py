@@ -1,0 +1,1 @@
+print "riftCTF{tr4c1ng-mAkes-17-SUPeR-345Y}"
