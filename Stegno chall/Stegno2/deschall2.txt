@@ -1,0 +1,22 @@
+
+Stegnography chall 2
+
+Description Write yourself
+
+NOTE:- Don't give hint directly incoparate it into the description Like(I saw this portal opening in the fantasy world of game rift or rift).
+
+passworld hint:- The Name of the fantasy world of Game rift 
+
+
+
+
+Flag:- riftCTF{I_4M_1nViNciBL3}
+
+password:- Telara
+
+Author:- Mr.7i74N
+
+
+
+
+Solution:- use Stegsuite or any stengo solver tool

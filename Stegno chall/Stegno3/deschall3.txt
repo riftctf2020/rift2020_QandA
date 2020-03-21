@@ -1,0 +1,15 @@
+Stegnography chall 3
+
+Description Write yourself
+
+
+
+
+Flag:- riftCTF{Music_is_Fr33d0m}
+
+Author:- Mr.7i74N
+
+
+
+
+Solution:- Use audacity of any spectogram tool to extract the flag. 

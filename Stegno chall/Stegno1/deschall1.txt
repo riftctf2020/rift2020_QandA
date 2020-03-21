@@ -1,0 +1,16 @@
+
+Stegnography chall 1
+
+Description Write yourself
+
+
+
+
+Flag:- riftCTF{R1ck_4ND_the_r1ft}
+
+Author:- Mr.7i74N
+
+
+
+
+Solution:- Just open the pic using notepad++ and scroll down to get flag OR use any other CLI tool to extract the hidden file like exif or binwalk

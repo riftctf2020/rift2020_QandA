@@ -1,0 +1,16 @@
+
+Stegnography chall 4
+
+Description Write yourself
+
+
+
+
+Flag:- riftCTF{I_4m_th3_cr3at0r}
+
+Author:- Mr.7i74N
+
+
+
+
+Solution:- flag is hidden in the metadata of the audio use any metadata extractor to find the flag.
