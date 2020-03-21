@@ -1,0 +1,14 @@
+
+Cryptography challenge 1
+
+
+challenge :- Decrypt this
+	     V1RJeGMySlhVa1pVYkZaVFltNVNTMXBGYUU5YWF6VkdaVVV4V1UxclduQlVWV2hYVFVabmQxTnRhRlpsYXpRMQ==
+
+
+
+Flag :- riftCTF{Its_4LL_ab0ut_BaS3}
+
+Author:- Mr.7i74N
+
+Solution:- use any base 64 decoder 3 times

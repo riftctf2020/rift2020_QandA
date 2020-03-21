@@ -1,0 +1,14 @@
+
+Cryptography challenge 7
+
+
+challenge :- Decrypt this image
+	     
+
+
+
+Flag :- RIFTCTFSURVIVALOFTHEFITTEST
+
+Author:- Mr.7i74N
+
+Solution:- use any Hylian Language (Twilight Princess) decoder 

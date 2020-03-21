@@ -1,0 +1,13 @@
+
+Cryptography challenge 6
+
+
+challenge :- Decrypt this image
+
+
+
+Flag :- RIFTCTFI7SASECR3T
+
+Author:- Mr.7i74N
+
+Solution:- use any Dotsies Font decoder 

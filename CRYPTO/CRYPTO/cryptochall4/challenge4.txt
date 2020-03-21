@@ -1,0 +1,14 @@
+
+Cryptography challenge 4
+
+
+challenge :- Decrypt this given picture
+	     
+
+
+Flag :- riftCTF{Just_A_7r1but3_t0_armedForces}
+
+Author:- Mr.7i74N
+
+Solution:- use any navy signal code decoder.
+

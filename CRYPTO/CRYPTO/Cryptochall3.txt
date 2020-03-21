@@ -1,0 +1,15 @@
+
+Cryptography challenge 3
+
+
+challenge :- Decrypt this
+	     GATCCGGCGCGCACTCTAACACCCGCACTGTCTACCTCTAACTACGTCTTCCTATCCAGCGCGCCCGCTTCCGCGCGATCAATACTGCTTCCTAACAATAGATCTTGCGTACACTACTTC
+
+
+
+Flag :- riftCTF{S74y_safe_fr0m_C0roN4}
+
+Author:- Mr.7i74N
+
+Solution:- use http://dnaencoder.dustinmichels.com/ this tool
+

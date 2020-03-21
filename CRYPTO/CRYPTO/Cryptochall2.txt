@@ -1,0 +1,15 @@
+
+Cryptography challenge 2
+
+
+challenge :- Decrypt this
+	     egkyGGJ{Q3e_Xf_FshH3wf}
+
+Key hint :- Second name of the ceo of pentesterlabs
+
+Flag :- riftCTF{K3y_To_SucC3ss}
+
+Author:- Mr.7i74N
+
+Solution:- use any Vigenere Cipher decoder
+key:- Nyffenegger
