@@ -1,0 +1,14 @@
+
+OSINT chall2
+
+The special forces got the information the some terrorists are hiding in a village and all they got is this 30°35'15.5"N 79°08'29.1"E .
+
+Morse code (...-- ----- ° ...-- ..... .----. .---- ..... .-.-.- ..... " -. / --... ----. ° ----- ---.. .----. ..--- ----. .-.-.- .---- " .)
+
+USE as per your wish
+
+
+Help them to find the location of the place.
+
+Flag:- riftCTF{Ransi}
+	flag is in the the riftCTF{} format

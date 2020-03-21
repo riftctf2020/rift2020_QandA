@@ -1,0 +1,11 @@
+OSINT Chall 4
+
+We've managed to snag a picture of the front of a new Person of Interest's car. We need you to find out the make of the car and the year it was first produced!
+
+We've attached the photo from a local CCTV camera, take a look?
+
+Enter as such: (Brand)(SPACE)(year)
+
+For instance: Renault 2010
+
+Flag :- FordKa 2008 

@@ -1,0 +1,8 @@
+OSINT chall1
+
+The author have hidden a flag in one of the post of IIIT naya raipur's official cybersecurity club's linkedin page.
+
+
+Author :- Mr.7i74N
+
+Flag:- riftCTF{W3lc0me_t0_c1ph3rcell}

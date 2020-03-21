@@ -1,0 +1,8 @@
+OSINT Chall3
+
+Which county this factory is located?
+
+Author:- Mr.7i74N
+
+flag :- riftCTF{CarbonCounty}
+	flag is in the riftCTF{} format
